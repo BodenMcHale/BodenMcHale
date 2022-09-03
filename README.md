@@ -2,7 +2,7 @@
 	<h1>Hi! I'm <a href="https://bodenmchale.github.io">Boden McHale</a>!</h1>
 	<div>Inexperienced coder, professional bug generator.</div>
 	<br />
-	<a href="https://Linux.com"><img src="https://img.shields.io/badge/OS-Linux-cdd6f4?style=flat&logo=linux" /></a>
+	<a href="https://Apple.com"><img src="https://img.shields.io/badge/OS-Monetery-blueviolet?style=flat&logo=apple" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/LANG-JavaScript-f2cdcd?style=flat&logo=javascript" /></a>
 	<br />
