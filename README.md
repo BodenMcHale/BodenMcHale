@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Hello there!</h1>
-	<div>My name is <a href="https://bodenmchale.github.io">Boden McHale</a>.</div>
+	<div>My name is Boden McHale.</div>
 	<div>AWS Cloud Engineer / Hobbyist Game Developer.</div>
 	<br />
 	<div>Contact me via:</div>
