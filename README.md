@@ -37,7 +37,6 @@
   <a href="https://bodenmchale.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge" alt="Portfolio"></a>
   <br>
   <a href="mailto:boden.mchale@gmail.com"><img src="https://img.shields.io/badge/boden.mchale@gmail.com-333333?style=for-the-badge&logo=gmail" alt="Email Address"></a>
-  <a href="https://www.linkedin.com/in/boden-mchale-332853245/"><img src="https://img.shields.io/badge/Linkedin-333333?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
 </div>
 
 <hr>
