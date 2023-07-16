@@ -26,8 +26,8 @@
 
 <h3>Contact Me</h3>
 <div>
-  <a href="https://bodenmchale.github.io/"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge" alt="Personal Website"></a>
-  <a href="https://www.lostrabbitdigital.org/"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge" alt="Company Website"></a>
+  <a href="https://bodenmchale.github.io/"><img src="https://img.shields.io/badge/Personal Website-333333?style=for-the-badge" alt="Personal Website"></a>
+  <a href="https://www.lostrabbitdigital.org/"><img src="https://img.shields.io/badge/Company Website-333333?style=for-the-badge" alt="Company Website"></a>
   <br>
   <a href="mailto:boden.mchale@gmail.com"><img src="https://img.shields.io/badge/boden.mchale@gmail.com-333333?style=for-the-badge&logo=gmail" alt="Email Address"></a>
 </div>
