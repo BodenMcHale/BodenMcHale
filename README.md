@@ -10,6 +10,7 @@
 <h3>Technologies</h3>
 <div>
   <a><img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus" alt="C++"></a>
+  <a><img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c" alt="C"></a>
   <a><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java" alt="Java"></a>
   <a><img src="https://img.shields.io/badge/Lua-333333?style=for-the-badge&logo=lua" alt="Lua"></a>
   <a><img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python" alt="Python"></a>
@@ -18,16 +19,7 @@
   <a><img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5" alt="HTML5"></a>
   <a><img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
   <br>
-  <a><img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs" alt="Node.js"></a>
-  <a><img src="https://img.shields.io/badge/React.js-333333?style=for-the-badge&logo=react" alt="React.js"></a>
-  <a><img src="https://img.shields.io/badge/Vue.js-333333?style=for-the-badge&logo=vuedotjs" alt="Vue.js"></a>
-  <br>
-  <a><img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb" alt="MongoDB"></a>
-  <a><img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql" alt="MySQL"></a>
-  <a><img src="https://img.shields.io/badge/DynamoDB-333333?style=for-the-badge&logo=amazondynamodb" alt="AWS DynamoDB"></a>
-  <br>
   <a><img src="https://img.shields.io/badge/Vim-333333?style=for-the-badge&logo=vim" alt="Vim"></a>
-  <a><img src="https://img.shields.io/badge/Sublime Text-333333?style=for-the-badge&logo=sublimetext" alt="Sublime Text"></a>
 </div>
 
 <hr>
