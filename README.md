@@ -12,8 +12,7 @@
   <a><img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus" alt="C++"></a>
   <a><img src="https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c" alt="C"></a>
   <a><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java" alt="Java"></a>
-  <a><img src="https://img.shields.io/badge/Lua-333333?style=for-the-badge&logo=lua" alt="Lua"></a>
-  <a><img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python" alt="Python"></a>
+  <a><img src="https://img.shields.io/badge/CSharp-333333?style=for-the-badge&logo=csharp" alt="CSharp"></a>
   <br>
   <a><img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css3" alt="CSS"></a>
   <a><img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5" alt="HTML5"></a>
