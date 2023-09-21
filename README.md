@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there, I am Boden.</h1>
+<h1 align="center"> Hello there</h1>
 
 <h3> Cloud Engineer / Game Developer</h3>
   <a href="https://aws.amazon.com/marketplace/pp/prodview-saeqv42mbuzlw?sr=0-5&ref_=beagle&applicationId=AWSMPContessa"><img src="https://img.shields.io/badge/Adminer-333333?style=for-the-badge&logo=amazonaws" alt="AWS Adminer"></a>
