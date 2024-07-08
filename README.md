@@ -22,9 +22,9 @@
 
 <hr>
 
-<h3>Contact Me</h3>
+<h3>About</h3>
 <div>
-  <a href="https://bodenmchale.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge" alt="Personal Website"></a>
+  <a href="https://bodenmchale.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio Website-333333?style=for-the-badge" alt="Portfolio Website"></a>
   <a href="https://www.lostrabbitdigital.org/" target="_blank"><img src="https://img.shields.io/badge/Lost Rabbit Digital-333333?style=for-the-badge" alt="Company Website"></a>
   <br>
   <a href="mailto:boden.mchale@gmail.com"><img src="https://img.shields.io/badge/boden.mchale@gmail.com-333333?style=for-the-badge&logo=gmail" alt="Email Address"></a>
