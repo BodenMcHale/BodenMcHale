@@ -4,21 +4,8 @@
   <a href="https://aws.amazon.com/marketplace/pp/prodview-saeqv42mbuzlw?sr=0-5&ref_=beagle&applicationId=AWSMPContessa"><img src="https://img.shields.io/badge/Adminer-333333?style=for-the-badge&logo=amazonaws" alt="AWS Adminer"></a>
   <a href="https://aws.amazon.com/marketplace/pp/prodview-aqod2fswtkf7q?sr=0-13&ref_=beagle&applicationId=AWSMPContessa"><img src="https://img.shields.io/badge/Gitea-333333?style=for-the-badge&logo=amazonaws" alt="AWS Gitea"></a>
   <br>
-  <a href="https://store.steampowered.com/app/1885160/Tumblefire/"><img src="https://img.shields.io/badge/Tumblefire-333333?style=for-the-badge&logo=steam" alt="Steam"></a>
-<hr>
+  <a href="https://store.steampowered.com/app/3291880/Spud_Customs/"><img src="https://img.shields.io/badge/Spud Customs-333333?style=for-the-badge&logo=steam" alt="Steam"></a>
 
-<h3>Technologies</h3>
-<div>
-  <a><img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus" alt="C++"></a>
-  <a><img src="https://img.shields.io/badge/CSharp-333333?style=for-the-badge&logo=csharp" alt="CSharp"></a>
-  <a><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java" alt="Java"></a>
-  <br>
-  <a><img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css3" alt="CSS"></a>
-  <a><img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5" alt="HTML5"></a>
-  <a><img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
-  <br>
-  <a><img src="https://img.shields.io/badge/Vim-333333?style=for-the-badge&logo=vim" alt="Vim"></a>
-</div>
 
 <hr>
 
@@ -26,8 +13,6 @@
 <div>
   <a href="https://bodenmchale.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio Website-333333?style=for-the-badge" alt="Portfolio Website"></a>
   <a href="https://www.lostrabbitdigital.org/" target="_blank"><img src="https://img.shields.io/badge/Lost Rabbit Digital-333333?style=for-the-badge" alt="Company Website"></a>
-  <br>
-  <a href="mailto:boden.mchale@gmail.com"><img src="https://img.shields.io/badge/boden.mchale@gmail.com-333333?style=for-the-badge&logo=gmail" alt="Email Address"></a>
 </div>
 
 <hr>
